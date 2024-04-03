@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/projeto_ladyday/static/css/main.e817e134.css",
+    "main.js": "/projeto_ladyday/static/js/main.40d262e4.js",
+    "static/media/background-insta.jpg": "/projeto_ladyday/static/media/background-insta.06644123398e5660d355.jpg",
+    "static/media/fundoAbout.png": "/projeto_ladyday/static/media/fundoAbout.9989742139327b89a713.png",
+    "static/media/insta04.jpg": "/projeto_ladyday/static/media/insta04.e00a74bd061870ae5340.jpg",
+    "static/media/insta06.jpg": "/projeto_ladyday/static/media/insta06.b8ab7baecfd5f2c57c78.jpg",
+    "static/media/insta05.jpg": "/projeto_ladyday/static/media/insta05.b0d73823a458d9d63425.jpg",
+    "static/media/insta07.jpg": "/projeto_ladyday/static/media/insta07.0e711225e82f62c04077.jpg",
+    "static/media/insta02.jpg": "/projeto_ladyday/static/media/insta02.e3e1b0dd4f8ccad413d5.jpg",
+    "static/media/insta03.jpg": "/projeto_ladyday/static/media/insta03.40e1f19358464dbb9127.jpg",
+    "static/media/insta01.jpg": "/projeto_ladyday/static/media/insta01.2b218c2e0ec9316d2b9b.jpg",
+    "static/media/background.jpg": "/projeto_ladyday/static/media/background.a23ad86b7c24ede7f764.jpg",
+    "static/media/Dagelland-8MB7B.ttf": "/projeto_ladyday/static/media/Dagelland-8MB7B.05a27b02a356b2622da9.ttf",
+    "static/media/LogoLadyDay.png": "/projeto_ladyday/static/media/LogoLadyDay.e0e03e4dd7651bb9fd1d.png",
+    "static/media/circle.png": "/projeto_ladyday/static/media/circle.692237b663abcb5f1ff8.png",
+    "static/media/icon-party.png": "/projeto_ladyday/static/media/icon-party.c3ec4050f94764315ce6.png",
+    "static/media/icon-cake.png": "/projeto_ladyday/static/media/icon-cake.e980192e2845700113ff.png",
+    "index.html": "/projeto_ladyday/index.html",
+    "main.e817e134.css.map": "/projeto_ladyday/static/css/main.e817e134.css.map",
+    "main.40d262e4.js.map": "/projeto_ladyday/static/js/main.40d262e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e817e134.css",
+    "static/js/main.40d262e4.js"
+  ]
+}
